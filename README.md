@@ -1,24 +1,44 @@
-# CTF Writeups
+# 🔐 CTF Write-ups Repository
 
-Welcome to my collection of Capture The Flag (CTF) writeups! This repository contains detailed solutions and notes for CTF challenges from platforms like HackTheBox and TryHackMe. Each writeup includes a problem description, step-by-step solution, tools used, screenshots, scripts, and lessons learned.
+Welcome to my **Capture The Flag (CTF) Write-ups** collection!  
+This repository documents my journey through various cybersecurity challenges on platforms such as:
 
-## Structure
-- [**HackTheBox**](./HackTheBox): Writeups for HackTheBox challenges and machines.
-- [**TryHackMe**](./TryHackMe): Writeups for TryHackMe rooms.
+- **Hack The Box (HTB)**
+- **TryHackMe (THM)**
+- Other CTF platforms in the future
 
-## How to Navigate
-Each platform folder contains subfolders for individual challenges or rooms. Inside each:
-- `README.md`: Detailed writeup with solution steps and explanations.
-- `screenshots/`: Images supporting the writeup (e.g., tool outputs, key findings).
-- `scripts/`: Any scripts or code used to solve the challenge.
+Each write-up includes:  
+✅ Challenge overview  
+✅ Tools and techniques used  
+✅ Step-by-step exploitation process  
+✅ Screenshots for clarity  
+✅ Lessons learned  
 
-## Index
-| Platform     | Challenge/Room | Category       | Difficulty | Date       |
-|--------------|----------------|----------------|------------|------------|
-| HackTheBox   | [Lame](./HackTheBox/Lame) | Linux        | Easy       | 2025-09-03 |
-| TryHackMe    | [Blue](./TryHackMe/Blue) | Windows      | Easy       | 2025-09-03 |
+---
 
-## License
-This project is licensed under the [MIT License](./LICENSE).
+## 📂 Repository Structure
 
-Feel free to contribute or provide feedback via [Issues](https://github.com/Karanjaian/CTF-Writeups/issues)!
+
+
+## 🛠 How to Use This Repo
+
+- **Read the write-ups:** Navigate to the challenge folder and open the .md file.
+
+- **View screenshots:** Found inside the screenshots/ subfolder for each challenge.
+
+- **Learn techniques:** Each write-up details the thought process, tools, and commands used.
+
+## ✅ Current Progress
+Platform	Challenges Completed
+HackTheBox	Appointment
+TryHackMe	Coming Soon
+
+## 📌 Purpose of This Repository
+- **Documentation:** Keep track of my solutions for reference and improvement.
+
+- **Learning Resource:** Share techniques and methodologies with the cybersecurity community.
+
+- **Portfolio:** Showcase practical skills in penetration testing and problem-solving.
+
+## 📜 License
+This project is licensed under the MIT License.
