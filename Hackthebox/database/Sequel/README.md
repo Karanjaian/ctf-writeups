@@ -4,7 +4,7 @@
 - **IP Address:** 10.129.110.10
 - **Difficulty:** Easy
 - **Category:** Database / MySQL Exploitation
-- **Completion Date:** [Date]
+- **Completion Date:** September 9TH 2025
 
 ---
 
