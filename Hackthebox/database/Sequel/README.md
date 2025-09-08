@@ -23,7 +23,7 @@ PORT     STATE SERVICE VERSION
 3306/tcp open  mysql   MySQL 8.0.29-0ubuntu0.20.04.3
 ```
 
-[Add screenshot: `screenshots/nmap.png`]
+[Add screenshot: `screenshots/Nmap_scan.png`]
 
 ---
 
