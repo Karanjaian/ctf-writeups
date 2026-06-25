@@ -1,44 +1,52 @@
-# 🔐 CTF Write-ups Repository
+# 🏴‍☠️ CTF Writeups & Cybersecurity Labs
 
-Welcome to my **Capture The Flag (CTF) Write-ups** collection!  
-This repository documents my journey through various cybersecurity challenges on platforms such as:
+Welcome to my cybersecurity learning repository.
 
-- **Hack The Box (HTB)**
-- **TryHackMe (THM)**
-- Other CTF platforms in the future
+This repository contains writeups, walkthroughs, notes, and lessons learned from:
 
-Each write-up includes:  
-✅ Challenge overview  
-✅ Tools and techniques used  
-✅ Step-by-step exploitation process  
-✅ Screenshots for clarity  
-✅ Lessons learned  
+- Hack The Box
+- TryHackMe
+- PicoCTF
+- CyberDefenders
+- PortSwigger Web Security Academy
+- Personal Labs
 
 ---
 
-## 📂 Repository Structure
+## Objectives
 
+- Improve offensive security skills
+- Document methodologies
+- Build a knowledge base
+- Share lessons learned
+- Track progress as a cybersecurity professional
 
+---
 
-## 🛠 How to Use This Repo
+## Platforms
 
-- **Read the write-ups:** Navigate to the challenge folder and open the .md file.
+| Platform | Status |
+|-----------|----------|
+| Hack The Box | Active |
+| TryHackMe | Active |
+| PicoCTF | Active |
+| PortSwigger | Active |
 
-- **View screenshots:** Found inside the screenshots/ subfolder for each challenge.
+---
 
-- **Learn techniques:** Each write-up details the thought process, tools, and commands used.
+## Skills Covered
 
-## ✅ Current Progress
-Platform	Challenges Completed
-HackTheBox	Appointment
-TryHackMe	Coming Soon
+- Enumeration
+- Web Exploitation
+- Privilege Escalation
+- Network Analysis
+- Malware Analysis
+- Digital Forensics
+- Active Directory
+- Cloud Security
 
-## 📌 Purpose of This Repository
-- **Documentation:** Keep track of my solutions for reference and improvement.
+---
 
-- **Learning Resource:** Share techniques and methodologies with the cybersecurity community.
+## Disclaimer
 
-- **Portfolio:** Showcase practical skills in penetration testing and problem-solving.
-
-## 📜 License
-This project is licensed under the MIT License.
+All activities documented here were performed in legal lab environments designed for cybersecurity education and training.
